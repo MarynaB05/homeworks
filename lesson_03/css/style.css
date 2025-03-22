@@ -1,0 +1,27 @@
+/*  Скидання стилів */
+@import url("reset.css"); 
+/* * {
+   color:red;
+}
+
+p {
+   color: blueviolet;
+}
+h2 {
+   color: chartreuse;
+} */
+.title {
+   color: blue;
+}
+#section-1 {
+   color: blueviolet;
+}
+ [class*="te"] {
+   color: brown;
+ }
+div.text {
+   color:green;
+}
+li {
+   color: crimson;
+}
